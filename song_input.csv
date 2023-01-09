@@ -1,0 +1,2 @@
+song_name,song_popularity,song_duration_ms,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+Banana Song,0,110560,0.753,0.676,0.609,5.85E-05,7,0.209,-10.183,1,0.034,127.45,4,0.557
